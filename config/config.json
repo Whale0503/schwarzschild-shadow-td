@@ -20,7 +20,7 @@
     "_comment_kappa_K": "Rotation coefficient around the z-axis for emitting matter (range 0-0.999)",
     "r_in": 4.5,
     "_comment_r_i": "Inner radius of the accretion disk",
-    "psi0_deg": 30,
+    "psi0_deg": 5,
     "_comment_psi0_deg": "Half-opening angle of the disk (degrees, 0-90)",
     "theta0_deg": 60,
     "_comment_theta0_deg": "Observer's inclination angle relative to the disk (degrees, 0-90)",
